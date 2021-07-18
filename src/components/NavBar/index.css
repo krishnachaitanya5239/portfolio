@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.navBar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #ec4899;
+  min-width: 200px;
+  align-self: stretch;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  padding-top: 20px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ffffff;
+  background-color: transparent;
+}
+
+.li {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  list-style-type: none;
+
+  padding: 5px;
+}
+
+.img {
+  height: 40px;
+}
+.navbar-ul {
+  margin: 5px;
+  min-width: 100%;
+}

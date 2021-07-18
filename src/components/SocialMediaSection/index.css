@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.SocialMediaContainer {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  border-radius: 10px;
+  border-color: #ffffff;
+  border-style: solid;
+  width: 98%;
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+.media-li {
+  margin: 10px;
+}

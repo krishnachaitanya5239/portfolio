@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 570px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ffffff;
+  width: 1050px;
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: #ffffff;
+  color: #ec4899;
+  border-width: 0px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.vertical-space {
+  margin: 15px;
+}
